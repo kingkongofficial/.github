@@ -5,3 +5,8 @@ A simple powerfull web framework built using rust
 <p align="center">
   <img src="https://raw.githubusercontent.com/kingkongofficial/kingkong/main/imgs/kingkong.jpeg" width="200" height="200">
 </p>
+
+## Author:
+- [krishpranav](https://github.com/krishpranav)
+
+- kingkong is an open source project you can contribute to it :)
